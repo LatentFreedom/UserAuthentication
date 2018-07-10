@@ -1,0 +1,2 @@
+FILE NAME: admin.txt
+ALLOWED: ADMIN

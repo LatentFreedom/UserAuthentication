@@ -1,0 +1,59 @@
+body {
+    margin: 0px;
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5, p {
+    margin: 0px;
+    padding: 2px;
+    background-color: white;
+}
+
+nav ul li {
+    margin: 5px;
+    padding: 0px;
+    display: inline-block;
+}
+
+section {
+    margin: 15px;
+    padding: 0px;
+    background-color: #e0e1e2;
+    box-shadow: 1px 1px 5px black;
+}
+
+section p {
+    padding: 5px;
+}
+
+ul {
+    margin: 0px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.formContainer {
+    margin: 0px;
+    padding: 10px;
+    display: block;
+}
+
+.row {
+    margin: 0px;
+    padding: 0px;
+}
+
+.row input {
+    margin: 0px;
+    padding: 0px;
+    display: block;
+}
+
+.row span {
+    margin: 0px;
+    padding: 0px;
+}
+
+.warning {
+    color: red;
+}

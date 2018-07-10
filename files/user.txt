@@ -1,0 +1,2 @@
+FILE NAME: user.txt
+ALLOWED: USER, ADMIN

@@ -1,0 +1,2 @@
+FILE NAME: guest.txt
+ALLOWED: GUEST, USER, ADMIN

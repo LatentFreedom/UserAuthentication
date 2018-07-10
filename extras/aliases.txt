@@ -1,0 +1,7 @@
+# login server
+alias i430='ssh -i ~/Documents/AWS_Ubuntu/I430-Project.pem ubuntu@35.161.104.217'
+
+# move web files
+alias mvI430php='scp -i Documents/AWS_Ubuntu/I430-Project.pem ~/Documents/Programming/Web/I430-Project/*.php ubuntu@35.161.104.217:~/'
+alias mvI430css='scp -i Documents/AWS_Ubuntu/I430-Project.pem ~/Documents/Programming/Web/I430-Project/css/*.css ubuntu@35.161.104.217:~/'
+alias mvI430inc='scp -i Documents/AWS_Ubuntu/I430-Project.pem ~/Documents/Programming/Web/I430-Project/includes/*.php ubuntu@35.161.104.217:~/'
